@@ -1,1 +1,13 @@
-site_name: My Docs
+site_name: "Proyecto Docs"
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Guía:
+      - Quickstart: guia/quickstart.md
+      - Instalación: guia/instalacion.md
+      - Uso: guia/uso.md
+  - Referencia:
+      - Comandos: referencia/comandos.md
+      - FAQ: referencia/faq.md
