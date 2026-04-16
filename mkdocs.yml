@@ -1,13 +1,26 @@
-site_name: "Proyecto Docs"
+site_name: "Proyecto MkDocs - David"
+site_description: "Documentación técnica con MkDocs y Docker"
+site_author: "David"
+
 theme:
   name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: blue
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
 
 nav:
   - Inicio: index.md
   - Guía:
-      - Quickstart: guia/quickstart.md
-      - Instalación: guia/instalacion.md
-      - Uso: guia/uso.md
+      ⚡ Quickstart: guia/quickstart.md
+      🛠️ Instalación: guia/instalacion.md
+      ▶️ Uso: guia/uso.md
   - Referencia:
       - Comandos: referencia/comandos.md
       - FAQ: referencia/faq.md

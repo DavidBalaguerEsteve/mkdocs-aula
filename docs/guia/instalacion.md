@@ -1,17 +1,21 @@
-# Instalación
 
-## Objetivo
-Instalar Docker y comprobar que funciona correctamente.
+---
 
-## Requisitos
-- Sistema operativo Windows
-- Conexión a internet
+# `instalacion.md`
+
+```md id="bjv2mf"
+#  Instalación
+
+##  Objetivo
+Instalar Docker correctamente.
+
+---
 
 ## Pasos
-1. Descargar Docker Desktop desde su web oficial
-2. Instalar el programa
-3. Reiniciar el equipo si es necesario
-4. Ejecutar Docker
+
+1. Descargar Docker Desktop
+2. Instalar
+3. Ejecutar Docker
 
 ```bash
 docker --version

@@ -1,14 +1,17 @@
-## Objetivo
-Aprender a usar MkDocs para crear documentación técnica.
 
-## Requisitos
-- Proyecto creado
-- Docker funcionando
+---
+
+# `uso.md`
+
+```md id="0l3v2q"
+# Uso
+
+## Objetivo
+Usar MkDocs correctamente.
+
+---
 
 ## Pasos
-1. Crear estructura de archivos
-2. Editar archivos Markdown
-3. Ejecutar el servidor
 
 ```bash
 mkdocs serve

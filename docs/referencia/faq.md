@@ -1,43 +1,35 @@
+
+---
+
+# `faq.md`
+
+```md id="pj9lfz"
+# FAQ
+
 ## Objetivo
-Responder preguntas frecuentes sobre MkDocs y Docker.
+Resolver dudas frecuentes.
 
-## Pasos
-Consultar las preguntas y respuestas.
-
-## Verificación
-Resolver dudas comunes del usuario.
-
-## Errores frecuentes
-- No leer la documentación
+---
 
 ## Preguntas
 
-1. ¿Qué es MkDocs?  
-Es una herramienta para generar documentación estática.
+**¿Qué es MkDocs?**  
+Herramienta de documentación.
 
-2. ¿Qué es Docker?  
-Es una plataforma para ejecutar aplicaciones en contenedores.
+**¿Qué es Docker?**  
+Contenedores.
 
-3. ¿Qué puerto usa MkDocs?  
-El puerto 8000.
+**¿Puerto?**  
+8000
 
-4. ¿Cómo se inicia el servidor?  
-Con el comando mkdocs serve.
+**¿Cómo iniciar?**  
+mkdocs serve
 
-5. ¿Dónde están los archivos?  
-En la carpeta docs/.
+**¿Dónde están los archivos?**  
+docs/
 
-6. ¿Cómo añadir páginas?  
-Editando el archivo mkdocs.yml.
+**¿Cómo subir cambios?**  
+git push
 
-7. ¿Cómo subir cambios a GitHub?  
-Usando git add, git commit y git push.
-
-8. ¿Qué es Material?  
-Un tema visual para MkDocs.
-
-9. ¿Se puede usar sin Docker?  
-Sí, instalando MkDocs con Python.
-
-10. ¿Para qué sirve este proyecto?  
-Para aprender documentación técnica.
+**¿Qué es Material?**  
+Tema visual

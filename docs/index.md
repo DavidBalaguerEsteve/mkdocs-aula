@@ -1,31 +1,41 @@
 # Proyecto de Documentación
 
+Bienvenido a la documentación del proyecto MkDocs con Docker.
+
+---
+
 ## Objetivo
-Este sitio web tiene como objetivo explicar cómo crear documentación técnica utilizando MkDocs y Docker.
+Aprender a crear documentación técnica profesional utilizando MkDocs y Docker.
+
+---
 
 ## Requisitos
-- Tener Docker instalado
-- Tener Git instalado
-- Tener una cuenta en GitHub
+-  Docker instalado
+-  VS Code
+-  Cuenta en GitHub
 
-## Pasos
-1. Instalar Docker
-2. Crear el proyecto MkDocs
-3. Ejecutar el servidor
-4. Visualizar la documentación en el navegador
+---
 
-## Verificación
-Abrir http://localhost:8000 y comprobar que la página se visualiza correctamente con el menú lateral.
+##  Verificación
+Accede a:
 
-## Errores frecuentes
-- Docker no iniciado
-- Puerto 8000 ocupado
-- Archivos mal ubicados
+- http://localhost:8000
+
+---
+
+##  Errores frecuentes
+-  Docker no iniciado  
+-  Puerto ocupado  
+-  Archivos mal ubicados  
+
+---
 
 ## Enlaces
-[Ir a Quickstart](guia/quickstart.md)  
-[Guía de instalación](guia/instalacion.md)  
-[Documentación oficial de MkDocs](https://www.mkdocs.org/)
+- [Quickstart](guia/quickstart.md)
+- [Instalación](guia/instalacion.md)
+- [Web oficial](https://www.mkdocs.org/)
 
-## Imagen
+---
+
+## Captura
 ![Captura del sitio](assets/captura.png)

@@ -1,26 +1,27 @@
+
+---
+
+# `comandos.md`
+
+```md id="k7m5k3"
+# Comandos
+
 ## Objetivo
-Mostrar los comandos principales de MkDocs.
+Lista de comandos importantes.
 
-## Pasos
-Consultar la tabla de comandos.
+---
 
-## Verificación
-Ejecutar correctamente los comandos en la terminal.
+## Tabla
 
-## Errores frecuentes
-- Sintaxis incorrecta
-- Uso incorrecto de rutas
+| Comando | Descripción |
+|--------|------------|
+| `mkdocs serve` | Servidor local |
+| `mkdocs build` | Generar sitio |
+| `mkdocs new` | Crear proyecto |
 
-## Tabla de comandos
+---
 
-| Comando | Descripción | Ejemplo |
-|--------|------------|--------|
-| serve  | Ejecuta servidor local | mkdocs serve |
-| build  | Genera sitio web | mkdocs build |
-| new    | Crear proyecto | mkdocs new nombre |
-
-## Ejemplos
+## Ejemplo
 
 ```bash
 mkdocs serve
-mkdocs build
